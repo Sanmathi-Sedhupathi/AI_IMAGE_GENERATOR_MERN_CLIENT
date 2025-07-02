@@ -35,7 +35,7 @@ const Navbar = () => {
   console.log(path);
   return (
     <Container>
-      Sanmathi_Sethupathi
+      DreamPixel
       {path[1] === "post" ? (
         <Button
           text="Explore Posts"
